@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33323b15-9924-4494-9968-c82aed1210ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\JetBrains\IntelliJ IDEA 2020\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectId" id="21E8a1AbyJcB1hjWIe64gglg6sj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Dockerfile" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TalkerB">
+    <configuration name="TalkerA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TalkerA" />
+      <module name="UDPproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TalkerB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TalkerB" />
+      <module name="UDPproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TalkerB" />
+        <item itemvalue="Application.TalkerA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33323b15-9924-4494-9968-c82aed1210ec" name="Default Changelist" comment="" />
+      <created>1637494947130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637494947130</updated>
+      <workItem from="1637494948188" duration="313000" />
+      <workItem from="1637495278738" duration="1569000" />
+      <workItem from="1641024636349" duration="6393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1641029873601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1641029873601" />
+    <state x="196" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1637496507619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="196" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1637496507619" />
+    <state width="1483" height="236" key="GridCell.Tab.0.bottom" timestamp="1641031437352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641031437352" />
+    <state width="1483" height="236" key="GridCell.Tab.0.center" timestamp="1641031437352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="236" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641031437352" />
+    <state width="1483" height="236" key="GridCell.Tab.0.left" timestamp="1641031437352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="236" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641031437352" />
+    <state width="1483" height="236" key="GridCell.Tab.0.right" timestamp="1641031437352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="236" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641031437352" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1637495496214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1637495496214" />
+  </component>
+</project>
