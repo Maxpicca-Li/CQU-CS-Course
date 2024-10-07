@@ -5,16 +5,17 @@
 - [QSCTech/zju-icicles: 浙江大学课程攻略共享计划 (github.com)](https://github.com/QSCTech/zju-icicles)
 - [PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University (github.com)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
-**To be continued ...**
+**Waiting for your PR ...**
 
-## TODO
+## DONE
 
+- [x] 1-Fall
+- [x] 1-Spring & Summer
+- [x] 2-Fall
+- [x] 2-Spring & Summer
 - [x] 3-Fall
-- [ ] 2-Fall
-- [ ] 1-Fall
-- [ ] 3-Spring & Summer
-- [ ] 2-Spring & Summer
-- [ ] 1-Spring & Summer
+- [x] 3-Spring & Summer
+- [x] 思政类
 
 
 
